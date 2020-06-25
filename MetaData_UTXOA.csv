@@ -1,0 +1,7 @@
+﻿id,Name,Unit,Description
+date,date,date,the date for this observation (range: 01-13-2009 to  02-13-2020)
+"6-12m, y",NA,1,the proportion of bitcoins staked for less than one year
+"18-24m, y",NA,1,the proportion of bitcoins staked for less than two years
+"2-3y, y",NA,1,the proportion of bitcoins staked for less than three years
+"3-5y, y",NA,1,the proportion of bitcoins staked for less than five years
+">5y, y",NA,1,1.0 (all bitcoins)

@@ -13,3 +13,5 @@ July 2020.**
 
 
 Moreover, see MetaData_Calculated for description for calculated variables
+
+Note: Add "tocolab" after"github" to open jupyter notebook in Google Co-lab

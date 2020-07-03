@@ -5,7 +5,7 @@ July 2020.**
 
 **The Data are from three websites**:
 
-**1.  [The CoinMetrics (CM)](https://coinmarketcap.com/currencies/bitcoin/historical-data/)**:  (from 01-03-2009 to current): See MetaData_CM.csv for variable description
+**1.  [The CoinMetrics (CM)](https://coinmetrics.io/data-downloads-2/)**:  (from 01-03-2009 to current): See MetaData_CM.csv for variable description
 
 **2. [The Coin MarketCap (CMC)](https://coinmarketcap.com/currencies/bitcoin/historical-data)** (from 04-29-2013 to current): See MetaData_CMC.csv for variable description
 

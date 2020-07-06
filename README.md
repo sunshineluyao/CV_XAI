@@ -12,7 +12,9 @@ July 2020.**
 **3. [The Bitcoin UTXO Age Distribution (UTXOA)](https://plotly.com/~unchained/37/bitcoin-utxo-age-distribution/#data)** (from 01-13-2009 to current): See [MetaData_UTXOA.csv](MetaData_UTXOA.csv) for variable description.
 
 
-Moreover, see MetaData_Calculated for description for calculated variables
+Moreover, see MetaData_Calculated for description for calculated variables:
+
+
 **Note 1**: Add "tocolab" after"github" to open jupyter notebook in Google Co-lab
 
 **Note 2**: We save all "csv" to a [Public Github Repo](https://github.com/sunshineluyao/Fintech_AI) to make importing data more convenient in Google Colab.

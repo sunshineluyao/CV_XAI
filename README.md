@@ -14,4 +14,6 @@ July 2020.**
 
 Moreover, see MetaData_Calculated for description for calculated variables
 
-Note: Add "tocolab" after"github" to open jupyter notebook in Google Co-lab
+##Note 1: Add "tocolab" after"github" to open jupyter notebook in Google Co-lab
+
+##Note 2: We save all "csv" to a [Public Github Repo](https://github.com/sunshineluyao/Fintech_AI) to make importing data more convenient in Google Colab.

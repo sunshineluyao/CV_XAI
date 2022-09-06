@@ -1,7 +1,7 @@
 ## Data and Code for "Cryptocurrency Valuation: An Explainable AI Approach"
 **Working Paper Available**: https://arxiv.org/abs/2201.12893
 
-**Note 1**: Add "tocolab" after"github" to open jupyter notebook in Google Co-lab.
+**Note 1**: Add "tocolab" after"github" in the "URL" to open any jupyter notebook on Github in Google Colab.
 
 **Note 2**: We save all "csv" to a [Public Github Repo](https://github.com/sunshineluyao/CVML2021) to make importing data more convenient in Google Colab.
 

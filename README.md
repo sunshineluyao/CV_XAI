@@ -1,4 +1,3 @@
-# CV_ML
 ## Data and Code for "Cryptocurrency Valuation: An Explainable AI Approach"
 **Available** on [Arxiv](https://arxiv.org/abs/2201.12893)
 

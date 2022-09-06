@@ -1,5 +1,5 @@
 ## Data and Code for "Cryptocurrency Valuation: An Explainable AI Approach"
-**Working Paper Available** on [Arxiv](https://arxiv.org/abs/2201.12893)
+**Working Paper Available**: https://arxiv.org/abs/2201.12893
 
 **Note 1**: Add "tocolab" after"github" to open jupyter notebook in Google Co-lab.
 
